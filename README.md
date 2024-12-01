@@ -1,4 +1,4 @@
-# Skyward Software Development Assignment (2023-09)
+# REPLY Student Tech Clash 2024 idea: TripT AI lor
 
 This is a small demo of TripTAIlor: a simple AI-Driven app to create journey plans.
 This was created for a REPLY Challenge at Politecnico di Milano on 30th November 2024
